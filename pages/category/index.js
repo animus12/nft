@@ -60,7 +60,6 @@ function Category() {
 			<Text>dfdf</Text>
 			<Text>dfdf</Text>
 			<Text>dfdf</Text>
-			<Text>dfdf</Text>
 		</Applayout>
 	)
 }
