@@ -16,7 +16,7 @@ const HotItemCard = () => (
 			backgroundClip: 'content-box, padding-box, border-box'
 		}}  rounded={5}>
 		<Stack p={3} align="center" cursor="pointer" rounded={5} pos="relative" h={250} bgPos="center" bgSize="cover" bgImage="">
-			<Image rounded={5} fit="inherit" h={230} src="https://api.mypethooligan.com/img/1532.png" />
+			<Image rounded={5} fit="inherit" h={230} src="https://api.mypethooligan.com/img/1532.png" alt="logo" />
 		</Stack>
 		<Stack spacing={1} p={3}>
 			<HStack justify="space-between">
