@@ -8,57 +8,16 @@ import { Applayout } from '../../layouts/Applayout'
 function Category() {
 	return (
 		<Applayout>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
-			<Text>dfdf</Text>
+			<Text>sample</Text>
+			<Text>sample</Text>
+			<Text>sample</Text>
+			<Text>sample</Text>
+			<Text>sample</Text>
+			<Text>sample</Text>
+			<Text>sample</Text>
+			<Text>sample</Text>
+			<Text>sample</Text>
+			<Text>sample</Text>
 		</Applayout>
 	)
 }

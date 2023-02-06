@@ -9,7 +9,7 @@ const CollectionItem = () => (
 		<HStack mt={20}>
 			<Avatar size="sm"></Avatar>
 			<Stack spacing={0}>
-				<Heading size="sm">mark ace</Heading>
+				<Heading size="sm">John doe</Heading>
 				<Text fontWeight="bold" fontSize={11}>$3,506</Text>
 			</Stack>
 		</HStack>
