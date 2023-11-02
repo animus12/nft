@@ -8,7 +8,7 @@ export const Footer = () => {
 	return (
 		<Box pt={20}>
 			<Container maxW="container.lg">
-				<Text>Footer</Text>
+				<Text>Footer Edit</Text>
 			</Container>
 		</Box>
 	)
